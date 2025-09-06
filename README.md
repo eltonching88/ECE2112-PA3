@@ -146,7 +146,7 @@ cars.iloc[ 0:5, 0:13:2 ]
 ```
 **Expected Output**: 
 <p align="center">
-  <img src="P2_TableA.png" alt="P2 Table A" width="600">
+  <img src="P2_TableA.png" alt="P2 Table A" width="350">
 </p>
 
 <!--
@@ -168,7 +168,7 @@ cars.loc[ cars['Model'] == 'Mazda RX4' ]
 ```
 **Expected Output**: 
 <p align="center">
-  <img src="P2_TableB.png" alt="P2 Table B" width="600">
+  <img src="P2_TableB.png" alt="P2 Table B" width="450">
 </p>
 <br/>
 
@@ -192,7 +192,7 @@ MD.loc[models, ["cyl", "gear"]]  # Output selected models and
 ```
 **Expected Output**: 
 <p align="center">
-  <img src="P2_TableD.png" alt="P2 Table D" width="600">
+  <img src="P2_TableD.png" alt="P2 Table D" width="200">
 </p>
 
 <br/>
